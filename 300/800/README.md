@@ -1,6 +1,6 @@
 # 800 - Export changes to remote scopes
 
-Export your [staged](Export your staged components from your workspace to their remote scopes. This will make them available to be consumed by components outside of your workspace, as well as by traditional monolithic projects. More importantly, this will enable you to collaborate on individual components, independently.) components from your workspace to their remote scopes. This will make them available to be consumed by components outside of your workspace, as well as by traditional monolithic projects. More importantly, this will enable you to collaborate on individual components, independently.
+Export your [staged](https://bit.dev/reference/workspace/workspace-status#staged-components) components from your workspace to their remote scopes. This will make them available to be consumed by components outside of your workspace, as well as by traditional monolithic projects. More importantly, this will enable you to collaborate on individual components, independently.
 
 ```
 $ bit export
