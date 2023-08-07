@@ -1,6 +1,6 @@
 # 500 - Collaborate
 
-Run the following to verify there are no issues preventing Bit from [snapping](https://bit.dev/reference/components/snaps) each component, independently:
+Run the following (in a separate terminal session, if needed) to verify there are no issues preventing Bit from [snapping](https://bit.dev/reference/components/snaps) each component, independently:
 
 ```
 $ bit status
