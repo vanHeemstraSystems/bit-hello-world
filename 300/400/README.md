@@ -28,7 +28,7 @@ The workspace UI displays all components maintained by your workspace. Use it to
 
 ![image](https://github.com/vanHeemstraSystems/bit-hello-world/assets/1499433/ab7a0486-b2ca-4757-b361-01b939b47871)
 
-If you visit bit.cloud, you will see this page:
+If you visit the URL provided, you will see this page:
 
 ![image](https://github.com/vanHeemstraSystems/bit-hello-world/assets/1499433/92b5d478-932c-410f-bbae-5bae283b1df3)
 
