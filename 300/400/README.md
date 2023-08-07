@@ -10,4 +10,4 @@ $ bit start
 
 The workspace UI displays all components maintained by your workspace. Use it to explore your components' [compositions](https://bit.dev/reference/compositions/compositions-overview), [documentation](https://bit.dev/reference/docs/docs-overview), [dependency graph](https://bit.dev/reference/dependencies/inspecting-dependencies), [version history](https://bit.dev/reference/components/navigating-history), and more.
 
-== IMAGE GOES HERE ==
+![image](https://github.com/vanHeemstraSystems/bit-hello-world/assets/1499433/ab7a0486-b2ca-4757-b361-01b939b47871)
