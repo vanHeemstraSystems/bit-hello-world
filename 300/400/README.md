@@ -27,3 +27,11 @@ Bit server is running on http://localhost:3001
 The workspace UI displays all components maintained by your workspace. Use it to explore your components' [compositions](https://bit.dev/reference/compositions/compositions-overview), [documentation](https://bit.dev/reference/docs/docs-overview), [dependency graph](https://bit.dev/reference/dependencies/inspecting-dependencies), [version history](https://bit.dev/reference/components/navigating-history), and more.
 
 ![image](https://github.com/vanHeemstraSystems/bit-hello-world/assets/1499433/ab7a0486-b2ca-4757-b361-01b939b47871)
+
+If you visit bit.cloud, you will see this page:
+
+![image](https://github.com/vanHeemstraSystems/bit-hello-world/assets/1499433/92b5d478-932c-410f-bbae-5bae283b1df3)
+
+https://3001-vanheemstra-bithellowor-xesx3f3j5ey.ws-eu102.gitpod.io/
+
+**NOTE**: The URL will differ with each new component.
