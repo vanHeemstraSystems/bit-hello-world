@@ -26,4 +26,10 @@ See [README.md](./500/README.md)
 
 See [README.md](./600/README.md)
 
-More ...
+## 700 - Snap your changes with a release version
+
+See [README.md](./700/README.md)
+
+## 800 - Export changes to remote scopes
+
+See [README.md](./800/README.md)
