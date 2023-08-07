@@ -9,3 +9,15 @@ Run the following to run the app component:
 ```
 $ bit run hello-world-app
 ```
+
+You will be asked to open your web browser to view the app. In case of using GitPod, the URL will be created from a temporary subdomain, like `
+https://3000-vanheemstra-bithellowor-xesx3f3j5ey.ws-eu102.gitpod.io/`
+
+The text on the web page is "Hello world!".
+
+The terminal will respond with:
+
+```
+webpack 5.84.1 compiled successfully in 2863 ms
+hello-world-app app is running on http://localhost:3000
+```
