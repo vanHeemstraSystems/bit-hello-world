@@ -8,6 +8,43 @@ Run the following to create a workspace with a few components included, using th
 $ bit new hello-world my-hello-world --env teambit.community/starters/hello-world
 ```
 
+You will be prompted as follows:
+
+```
+Congrats! A new workspace has been created successfully at '/workspace/bit-hello-world/my-hello-world'
+
+Inside the directory 'my-hello-world' you can run various commands including:
+
+      bit start
+        Starts the workspace in development mode
+
+      bit install
+        Installs any missing dependencies
+
+      bit status
+        Shows the status of the components
+
+      bit compile
+        Compiles the components
+
+      bit test
+        Runs the tests on all your components
+
+      bit templates
+        Shows all available component templates
+
+      bit help
+        Shows all available commands
+
+
+Let's get started!
+
+      cd my-hello-world
+      bit run hello-world-app
+      bit start
+```
+
+
 Open your workspace directory:
 
 ```
