@@ -4,6 +4,13 @@ Your workspace maintains a number of components. One of these components is also
 
 ![image](https://github.com/vanHeemstraSystems/bit-hello-world/assets/1499433/b2f491f0-5f72-43fc-bff1-77a07dc4a2f4)
 
+
+If you already had the workspace "my-hello-world", as we do, first run:
+
+```
+$ bit install
+```
+
 Run the following to run the app component:
 
 ```
