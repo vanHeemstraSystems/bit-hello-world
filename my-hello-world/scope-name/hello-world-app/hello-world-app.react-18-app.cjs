@@ -4,7 +4,6 @@
  * */ 
 
 /** @type {import("@teambit/react.apps.react-app-types").ReactAppOptions} */
-
 const HelloWorldApp = {
   name: 'hello-world-app',
   entry: [require.resolve('./hello-world-app.app-root')],

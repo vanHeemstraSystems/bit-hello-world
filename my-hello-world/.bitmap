@@ -30,7 +30,7 @@
                 "forkedFrom": {
                     "scope": "learnbit.hello-world",
                     "name": "get-hello-world",
-                    "version": "0.0.10"
+                    "version": "0.0.11"
                 }
             }
         }
@@ -62,7 +62,7 @@
                 "forkedFrom": {
                     "scope": "learnbit.hello-world",
                     "name": "hello-world-app",
-                    "version": "0.0.14"
+                    "version": "0.0.15"
                 }
             },
             "org.scope-name/react-env-extension": {}
@@ -88,7 +88,7 @@
                 "forkedFrom": {
                     "scope": "teambit.react",
                     "name": "react-env-extension",
-                    "version": "0.1.18"
+                    "version": "0.1.20"
                 }
             }
         }
@@ -113,7 +113,7 @@
                 "forkedFrom": {
                     "scope": "learnbit.hello-world",
                     "name": "ui/hello-world",
-                    "version": "0.0.14"
+                    "version": "0.0.15"
                 }
             },
             "org.scope-name/react-env-extension": {}
